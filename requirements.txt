@@ -3,6 +3,5 @@ streamlit==1.25.0
 matplotlib == 3.7.1
 streamlit_keplergl
 numerize == 0.12
-pillow == 9.5.0
 pandas==1.5.3
 numpy>=1.25.0
