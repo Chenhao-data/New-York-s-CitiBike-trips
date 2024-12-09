@@ -1,3 +1,5 @@
 zlib1g-dev
 libjpeg-dev
+libfreetype6-dev
+libpng-dev
 python3.10-venv
